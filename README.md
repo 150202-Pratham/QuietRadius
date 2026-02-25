@@ -4,17 +4,18 @@
 
 ## ✨ Key Features
 
+
 ````carousel
-![Session Planning Interface](Media.xcassets/PlanSession.jpeg)
+![Session Planning Interface](Images/PlanSession.jpeg)
 **Plan Your Session**: Intuitive planning with preset durations and goal-oriented checkpoints.
 <!-- slide -->
-![Focus Mode Interface](Media.xcassets/LiveSession.jpeg)
+![Focus Mode Interface](Images/LiveSession.jpeg)
 **Deep Work Mode**: Immersive timer with live ambient noise monitoring and smart suggestions.
 <!-- slide -->
-![Session History](Media.xcassets/SessionHistory.jpeg)
+![Session History](Images/SessionHistory.jpeg)
 **Track Your Progress**: Comprehensive history tracking with focus effectiveness and rating insights.
 <!--slide>
-![HomeScreen](./Media.xcassets/HomeScreen.jpeg)
+![HomeScreen](Images/HomeScreen.jpeg)
 ** Immersive and clean Ui** : for user navigation and Interface.
 ````
 
