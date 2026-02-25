@@ -42,4 +42,4 @@ QuietRadius is built with a modern Swift architecture, prioritizing performance 
 - **Arithmetic Robustness**: Implemented safety guards across the timer engine to prevent division errors and ensure accurate progress tracking.
 
 ---
-*Created with focus by [Your Name/Github]*
+*Created with focus by [Pratham Garg /150202-Pratham]* 
