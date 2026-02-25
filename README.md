@@ -5,14 +5,17 @@
 ## ✨ Key Features
 
 ````carousel
-![Session Planning Interface](/Users/shivanshkaushik/.gemini/antigravity/brain/tempmediaStorage/media__1771418492398.png)
+![Session Planning Interface](Media.xcassets/PlanSession.jpeg)
 **Plan Your Session**: Intuitive planning with preset durations and goal-oriented checkpoints.
 <!-- slide -->
-![Focus Mode Interface](/Users/shivanshkaushik/.gemini/antigravity/brain/tempmediaStorage/media__1771418492398.png)
+![Focus Mode Interface](Media.xcassets/LiveSession.jpeg)
 **Deep Work Mode**: Immersive timer with live ambient noise monitoring and smart suggestions.
 <!-- slide -->
-![Session History](/Users/shivanshkaushik/.gemini/antigravity/brain/tempmediaStorage/media__1771418492398.png)
+![Session History](Media.xcassets/SessionHistory.jpeg)
 **Track Your Progress**: Comprehensive history tracking with focus effectiveness and rating insights.
+<!--slide>
+![HomeScreen](./Media.xcassets/HomeScreen.jpeg)
+** Immersive and clean Ui** : for user navigation and Interface.
 ````
 
 - **🛡️ Adaptive Noise Monitoring**: Advanced real-time analysis of your environment to detect disruptions and suggest optimizations.
